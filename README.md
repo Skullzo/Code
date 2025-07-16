@@ -2,7 +2,7 @@
 
 ## Author
 
-[Alejandro Toro Daza](https://github.com/Skullzo)
+[Alejandro Toro](https://github.com/Skullzo)
 
 ## License and Copyrights
 
